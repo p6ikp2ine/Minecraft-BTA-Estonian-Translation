@@ -1,4 +1,4 @@
-tile.stone.name=Stone
+tile.stone.name=Kivi
 tile.stone.desc=A block of solid stone.
 tile.basalt.name=Basalt
 tile.basalt.desc=A block of solid basalt.
@@ -6,14 +6,14 @@ tile.limestone.name=Limestone
 tile.limestone.desc=A block of solid limestone.
 tile.granite.name=Granite
 tile.granite.desc=A block of solid granite.
-tile.marble.name=Marble
+tile.marble.name=Marmor
 tile.marble.desc=A block of solid marble.
 tile.slate.name=Slate
 tile.slate.desc=A block of solid slate.
 tile.permafrost.name=Permafrost
 tile.permafrost.desc=A block of frozen stone.
 
-tile.cobble.stone.name=Cobblestone
+tile.cobble.stone.name=Munakivi
 tile.cobble.stone.desc=Stone, smashed apart and reconstituted.
 tile.cobble.stone.mossy.name=Mossy Cobblestone
 tile.cobble.stone.mossy.desc=Cobblestone with added greenery.
@@ -37,7 +37,7 @@ tile.pillar.marble.desc=A block of marble engraved into a pillar.
 tile.capstone.marble.name=Marble Capstone
 tile.capstone.marble.desc=A pillar capstone made of solid marble.
 
-tile.sandstone.name=Sandstone
+tile.sandstone.name=Liivakivi
 tile.sandstone.desc=Compacted sand.
 
 tile.stone.carved.name=Carved Stone
@@ -90,10 +90,10 @@ tile.planks.oak.painted.orange.desc=Wooden planks, stained orange.
 tile.planks.oak.painted.white.name=White Wooden Planks
 tile.planks.oak.painted.white.desc=Wooden planks, stained white.
 
-tile.torch.coal.name=Torch
+tile.torch.coal.name=Tõrvik
 tile.torch.coal.desc=Helps light the way.
 
-tile.ladder.oak.name=Ladder
+tile.ladder.oak.name=Redel
 tile.ladder.oak.desc=For very rapid vertical movement.
 
 tile.fence.planks.oak.name=Wooden Fence
@@ -457,16 +457,16 @@ tile.moss.limestone.desc=Moss covering a block of limestone.
 tile.moss.granite.name=Mossy Granite
 tile.moss.granite.desc=Moss covering a block of granite.
 
-tile.sand.name=Sand
+tile.sand.name=Liiv
 tile.sand.desc=Gets everywhere.
-tile.gravel.name=Gravel
+tile.gravel.name=Kruus/Sõra
 tile.gravel.desc=A loose collection of pebbles.
 tile.sulfur.name=Sulfur
 tile.sulfur.desc=Yellow.
 tile.brimsand.name=Brimsand
 tile.brimsand.desc=Scorched sulfuric sand rich in gunpowder.
 
-tile.bedrock.name=Bedrock
+tile.bedrock.name=Aluskivi
 tile.bedrock.desc=The toughest substance known to man.
 tile.boneshale.name=Bone Shale
 tile.boneshale.desc=An incredibly tough white rock torn from the deepest depths.
@@ -728,7 +728,7 @@ tile.button.planks.painted.orange.desc=Emits a brief redstone signal when presse
 tile.button.planks.painted.white.name=White Wooden Button
 tile.button.planks.painted.white.desc=Emits a brief redstone signal when pressed.
 
-tile.lever.cobble.stone.name=Lever
+tile.lever.cobble.stone.name=Kang
 tile.lever.cobble.stone.desc=Allows turning a redstone signal on or off.
 
 tile.pressureplate.stone.name=Stone Pressure Plate
@@ -1278,8 +1278,8 @@ tile.fence.paper_wall.desc=A fence made of delicate paper. Be careful!
 tile.fence.steel.name=Steel Fence
 tile.fence.steel.desc=A fence made of tough steel. Intimidating!
 
-tile.jar.glass.name=Jar
-tile.jar.glass.desc=A jar made of glass.
+tile.jar.glass.name=Purk
+tile.jar.glass.desc=Klaasist purk.
 
 tile.lantern.firefly.green.name=Green Firefly Lantern
 tile.lantern.firefly.green.desc=A glass jar containing a swarm of green fireflies.
@@ -1492,5 +1492,5 @@ tile.matcher.desc=Matches the block in front to the block behind.
 tile.flowstone.name=Flowstone
 tile.flowstone.desc=A rocky growth formed over millennia.
 
-tile.air.name=Air
+tile.air.name=Õhk
 tile.air.desc=It's literally nothing.
