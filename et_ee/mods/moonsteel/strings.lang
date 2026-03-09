@@ -1,0 +1,5 @@
+moonsteel.teleport.fail.missing=Link could not be established, Stellar rewinder possibly missing.
+moonsteel.teleport.fail.score=Not enough score to establish link.
+moonsteel.teleport.fail.dimension=Star is linked to a different dimension.
+
+moonsteel.container.backpack.star.name=Stardust Backpack
