@@ -1,8 +1,9 @@
 {
-    "id": "en_USA",
-    "name": "English+",
-    "region": "US",
+    "id": "et_ee",
+    "name": "Eesti+",
+    "region": "Eesti",
     "credits": [
-        "Mojang, Majonk, BTA Modding Community"
+        "Mojang, Majonk, BTA Modding Community, ?"
     ]
 }
+
