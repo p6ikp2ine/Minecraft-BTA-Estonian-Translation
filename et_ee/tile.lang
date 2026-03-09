@@ -459,7 +459,7 @@ tile.moss.granite.desc=Moss covering a block of granite.
 
 tile.sand.name=Liiv
 tile.sand.desc=Gets everywhere.
-tile.gravel.name=Kruus/Sõra
+tile.gravel.name=Sõra
 tile.gravel.desc=A loose collection of pebbles.
 tile.sulfur.name=Sulfur
 tile.sulfur.desc=Yellow.
