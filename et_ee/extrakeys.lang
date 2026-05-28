@@ -1,0 +1,143 @@
+# These are a ton of extra language keys for future use or for fun.
+# You do not have to translate these.
+
+tile.cobble.stone.retro.name=Retro Cobblestone
+tile.cobble.stone.retro.desc=Stone, smashed apart and reconstituted. Smells musty.
+tile.cobble.stone.mossy.retro.name=Retro Mossy Cobblestone
+tile.cobble.stone.mossy.retro.desc=Cobblestone with added greenery. Smells old.
+tile.cobble.sandstone.name=Cobbled Sandstone
+tile.cobble.sandstone.desc=Sandstone, smashed apart and reconstituted.
+
+tile.furnace.brick.idle.name=Brick Oven
+tile.furnace.brick.idle.desc=Great for cooking food.
+tile.buoy.name=Buoy
+tile.buoy.desc=Floats in water.
+
+tile.torch.spectral.active.name=Spectral Torch
+tile.torch.spectral.active.desc=It glows with a cold, ethereal light.
+
+tile.trapdoor.glass.tinted.name=Tinted Glass Trapdoor
+tile.trapdoor.glass.tinted.desc=Blocks out the sun.
+tile.door.glass.tinted.top.name=Tinted Glass Top Door
+tile.door.glass.tinted.top.desc=You shouldn't be seeing this.
+tile.door.glass.tinted.bottom.name=Tinted Glass Bottom Door
+tile.door.glass.tinted.bottom.desc=And that's not just because it's glass.
+
+tile.stalactite.name=Stalactite
+tile.stalactite.desc=A pillar of rock created by dripping water. Will fall if unsupported.
+tile.sandstone.red.name=Red Sandstone
+tile.sandstone.red.desc=Compacted red sand.
+tile.grass.overgrown.name=Overgrown Grass
+tile.grass.overgrown.desc=Dirt completely overgrown by grass.
+tile.dirt.rooted.name=Rooted Dirt
+tile.dirt.rooted.desc=Dirt packed with gnarled roots.
+tile.brimstone.name=Brimstone
+tile.brimstone.desc=Incredibly tough blackened rock from the depths of hell.
+tile.netherrack.weeping.name=Weeping Netherrack
+tile.netherrack.weeping.desc=This red rock oozes a sticky red substance.
+tile.soulslate.name=Soul Slate
+tile.soulslate.desc=Highly compacted soul sand. Listen closely and you can almost hear it whisper.
+
+tile.vine.name=Vine
+tile.vine.desc=A long, creeping vine that can be climbed.
+tile.vine.flowering.name=Flowering Vine
+tile.vine.flowering.desc=A long, creeping vine, blooming with flowers.
+tile.vine.flowering.white.name=White Flowering Vine
+tile.vine.flowering.white.desc=A long, creeping vine, blooming with white flowers.
+tile.vine.flowering.orange.name=Orange Flowering Vine
+tile.vine.flowering.orange.desc=A long, creeping vine, blooming with orange flowers.
+tile.vine.flowering.magenta.name=Magenta Flowering Vine
+tile.vine.flowering.magenta.desc=A long, creeping vine, blooming with magenta flowers.
+tile.vine.flowering.lightBlue.name=Light Blue Flowering Vine
+tile.vine.flowering.lightBlue.desc=A long, creeping vine, blooming with light blue flowers.
+tile.vine.flowering.yellow.name=Yellow Flowering Vine
+tile.vine.flowering.yellow.desc=A long, creeping vine, blooming with yellow flowers.
+tile.vine.flowering.lime.name=Lime Flowering Vine
+tile.vine.flowering.lime.desc=A long, creeping vine, blooming with lime flowers.
+tile.vine.flowering.pink.name=Pink Flowering Vine
+tile.vine.flowering.pink.desc=A long, creeping vine, blooming with pink flowers.
+tile.vine.flowering.gray.name=Gray Flowering Vine
+tile.vine.flowering.gray.desc=A long, creeping vine, blooming with gray flowers.
+tile.vine.flowering.silver.name=Silver Flowering Vine
+tile.vine.flowering.silver.desc=A long, creeping vine, blooming with silver flowers.
+tile.vine.flowering.cyan.name=Cyan Flowering Vine
+tile.vine.flowering.cyan.desc=A long, creeping vine, blooming with cyan flowers.
+tile.vine.flowering.purple.name=Purple Flowering Vine
+tile.vine.flowering.purple.desc=A long, creeping vine, blooming with purple flowers.
+tile.vine.flowering.blue.name=Blue Flowering Vine
+tile.vine.flowering.blue.desc=A long, creeping vine, blooming with blue flowers.
+tile.vine.flowering.brown.name=Brown Flowering Vine
+tile.vine.flowering.brown.desc=A long, creeping vine, blooming with brown flowers.
+tile.vine.flowering.red.name=Red Flowering Vine
+tile.vine.flowering.red.desc=A long, creeping vine, blooming with red flowers.
+tile.vine.flowering.black.name=Black Flowering Vine
+tile.vine.flowering.black.desc=A long, creeping vine, blooming with black flowers.
+
+tile.roots.name=Roots
+tile.roots.desc=
+tile.mushroom.glowing.name=Lumeshroom
+tile.mushroom.glowing.desc=A glowing blue mushroom.
+
+item.tool.bow.wood.name=Wooden Bow
+item.tool.bow.wood.desc=A weapon for shooting rapid-fire arrows.
+item.tool.bow.steel.name=Steel Bow
+item.tool.bow.steel.desc=A heavy-duty bow that can be drawn back.
+
+item.armor.boots.bolt.name=Bolt Boots
+item.armor.boots.bolt.desc=These magical boots allow you to dash short distances.
+
+item.nugget.gold.name=Gold Nugget
+item.nugget.gold.desc=A chunk of gold found buried in the soil.
+item.nugget.iron.name=Iron Nugget
+item.nugget.iron.desc=A chunk of iron found buried in the soil.
+
+item.glowball.name=Glowball
+item.glowball.desc=Slime packed with glowstone dust, ideal for lighting distant places.
+
+item.door.glass.tinted.name=Tinted Glass Door
+item.door.glass.tinted.desc=Okay for aesthetics, okay for privacy.
+
+item.fibre.name=Spinifex Fiber
+item.fibre.name=A bundle of dry fibers taken from a spinifex plant.
+
+season.paradise.mithril.name=Myfrel
+season.drift.mithril.name=Myfrel
+
+damagetype.drown=Watrbord
+damagetype.generic=Owwie Hurt hurts
+damagetype.boiling=hotwata
+damagetype.evil=Bad Forse
+damagetype.poison=Poesun
+damagetype.cold=Chily
+damagetype.space=Airles
+damagetype.magic=Majic
+
+record.11=11
+record.eleven=Eleven
+record.droopy=Droopy likes your Face
+
+achievement.unstableAnchor=nostalbe anchur
+achievement.unstableAnchor.desc=kamboom dere goes ur stuf u neeeed squarz
+
+guidebook.section.mob.giant_zombie.name=BEEG BAD HOOMAN
+guidebook.section.mob.giant_zombie.desc=OH NOHNS WEES GETTA GOT GOEN TEH EPIK ZOMBO IS COMING!11!!! RUUUNNNNN!!!!!!
+guidebook.section.mob.scorpion.name=Skorpin
+guidebook.section.mob.scorpion.desc=tiney ting in teh desrtz he got poity tali! beez cafell is mayb meen!
+guidebook.section.mob.monster.name=Hooman
+guidebook.section.mob.monster.desc=iz who u ar, yu reedin dis are HOOMAN.
+
+guidebook.section.mob.arrow.name=Errow
+guidebook.section.mob.snowball.name=Cold wet
+guidebook.section.mob.pebble.name=Smal ston
+guidebook.section.mob.item.name=Ietm
+guidebook.section.mob.minecart.name=Minecat
+guidebook.section.mob.boat.name=Watr car
+guidebook.section.mob.fallingsand.name=downsnad
+guidebook.section.mob.primedtnt.name=TEH EXPLODIR!
+guidebook.section.mob.painting.name=art.
+guidebook.section.mob.arrowgolden.name=GOLD ERROW
+guidebook.section.mob.giant.name=Teh biggest baddist hooman!
+guidebook.section.mob.arrowpurple.name=Pirplel errow
+guidebook.section.mob.lightning.name=Scary zappy!
+guidebook.section.mob.fireball.name=Nasteh flying bad kitteh pouke
+guidebook.section.mob.cannonball.name=Boomy device

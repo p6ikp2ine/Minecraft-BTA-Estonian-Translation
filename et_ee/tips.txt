@@ -26,3 +26,6 @@ Signs can be dyed.
 Pebbles can be placed on the ground to make a nice path.
 Labels can be used to rename mobs and items.
 Press LCTRL while hovering over an item to see its description.
+# extra tips!
+Paintbrushes are a more efficient way to color blocks.
+Reinforced Pistons can be used to launch entities.

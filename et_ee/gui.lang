@@ -3,30 +3,30 @@ gui.achievement.label.unlicensed.1=Better than Adventure! %s Unlicensed Copy :(
 gui.achievement.label.unlicensed.2=(Or logged in from another location)
 gui.achievement.label.unlicensed.3=Purchase at minecraft.net
 
-gui.achievements.button.done=Valmis
+gui.achievements.button.done=Done
 gui.achievements.label.title=Achievements
 gui.achievements.label.taken=Taken!
 gui.achievements.label.requires=Requires '%1$s'
 gui.achievements.label.completion=%1$s Complete!
 
-gui.achievements.page.vanilla.name=Tavamäng
+gui.achievements.page.vanilla.name=Vanilla
 gui.achievements.page.vanilla.desc=Achievements from Better than Adventure!
 gui.achievements.page.overworld.name=Overworld
 gui.achievements.page.overworld.desc=Achievements of the starting dimension!
-gui.achievements.page.nether.name=Manala
+gui.achievements.page.nether.name=Nether
 gui.achievements.page.nether.desc=Achievements from Hell!
 
-gui.add_server.label.title=Lisa server
-gui.add_server.button.save=Salvesta
-gui.add_server.button.cancel=Katkesta
+gui.add_server.label.title=Add Server
+gui.add_server.button.save=Save
+gui.add_server.button.cancel=Cancel
 gui.add_server.button.show_ip=Show IP: %s
-gui.add_server.button.show_ip.on=SEES
-gui.add_server.button.show_ip.off=VÄLJAS
-gui.add_server.label.server_name=Serveri nimi
-gui.add_server.label.ip_address=IP aadress
+gui.add_server.button.show_ip.on=ON
+gui.add_server.button.show_ip.off=OFF
+gui.add_server.label.server_name=Server name
+gui.add_server.label.ip_address=IP address
 
-gui.bad_java_arch.label.title=32-bit Java tuvastatud!?
-gui.bad_java_arch.label.body.1=Näib, et Better than Adventure jookseb 32-bit Java'l.
+gui.bad_java_arch.label.title=32-bit Java detected!
+gui.bad_java_arch.label.body.1=It looks like you're running Better than Adventure on 32-bit Java.
 gui.bad_java_arch.label.body.2=This can cause problems with memory allocation, including lag spikes
 gui.bad_java_arch.label.body.3=and potentially crashes.
 gui.bad_java_arch.label.body.4=Please consider downloading a 64-bit JRE such as Eclipse Temurin.
@@ -56,7 +56,7 @@ gui.no_minecraft.label.body.3=Minecraft Beta 1.7.3 in order to function properly
 gui.no_minecraft.label.body.4=This issue normally happens if you made a mistake in the installation process.
 gui.no_minecraft.label.body.5=Please review the install guide linked below.
 gui.no_minecraft.button.guide=Install Guide
-gui.no_minecraft.button.quit=Lahku mängust
+gui.no_minecraft.button.quit=Quit Game
 
 
 gui.conflict_warning.label.title=Level safe conflict
@@ -69,69 +69,73 @@ gui.conflict_warning.button.back=Back to title screen
 gui.connect_failed.label.title=Failed to connect to the server
 gui.connect_failed.button.back=Back to server browser
 
-gui.connect_to_ip.button.connect=Ühenda
-gui.connect_to_ip.button.cancel=Katkesta
-gui.connect_to_ip.label.title=Ühenda IP-ga
+gui.connect_to_ip.button.connect=Connect
+gui.connect_to_ip.button.cancel=Cancel
+gui.connect_to_ip.label.title=Connect to IP
 gui.connect_to_ip.label.enter_ip=Enter the IP of a server to connect to it:
 
-gui.connecting.button.cancel=Katkesta
-gui.connecting.label.connecting=Serveriga ühendumine...
-gui.connecting.label.logging_in=Sisse logimine...
+gui.connecting.button.cancel=Cancel
+gui.connecting.label.connecting=Connecting to the server...
+gui.connecting.label.logging_in=Logging in...
 
 gui.controller_setup.button.back=Back
+gui.controller_setup.label.help.1=If no controllers are detected, make sure to
+gui.controller_setup.label.help.2=launch the game with the controller plugged in.
 gui.controller_setup.label.no_controller_selected=No controller selected!
 
-gui.crafting.label.crafting=Sepitsemine
-gui.crafting.label.inventory=Varu
+gui.crafting.label.crafting=Crafting
+gui.crafting.label.inventory=Inventory
 
-gui.create_world.label.title=Loo uus maailm
-gui.create_world.label.world_name=Maailma nimi
-gui.create_world.label.seed=
-gui.create_world.button.create_new_world=Loo uus maailm
-gui.create_world.button.cancel=Katkesta
+gui.create_world.label.title=Create New World
+gui.create_world.label.world_name=World Name
+gui.create_world.label.seed=Seed
+gui.create_world.button.create_new_world=Create New World
+gui.create_world.button.cancel=Cancel
 gui.create_world.button.gamemode=Mode: %s
 gui.create_world.button.cheats=Cheats: %s
-gui.create_world.button.cheats.on=SEES
-gui.create_world.button.cheats.off=VÄLJAS
+gui.create_world.button.cheats.on=ON
+gui.create_world.button.cheats.off=OFF
 gui.create_world.button.world_settings=World Settings
-gui.create_world.label.new_world=Uus maailm
+gui.create_world.button.world_type=World Type: %s
+gui.create_world.label.new_world=New World
+gui.create_world.label.select_world_type=Select World Type
 
-gui.world_settings.label.title=Maailma kuju
-gui.world_settings.button.done=Valmis
-gui.world_settings.page.game_rules.title=Mängu Reeglid
-gui.world_settings.page.world_settings.title=Maailma kuju
+gui.world_settings.label.title=World Settings
+gui.world_settings.button.done=Done
+gui.world_settings.page.game_rules.title=Game Rules
+gui.world_settings.page.world_settings.title=World Settings
 gui.world_settings.page.world_settings.category.overworld=Overworld
-gui.world_settings.page.world_settings.category.nether=Manala
-gui.world_settings.page.game_rules.button.on=SEES
-gui.world_settings.page.game_rules.button.off=VÄLJAS
-gui.world_settings.page.mob_spawning.title=Kollide ilmumine
-gui.world_settings.page.mob_spawning.button.on=SEES
-gui.world_settings.page.mob_spawning.button.off=VÄLJAS
-gui.world_settings.page.mob_spawning.hostile=Vaenulike ilmumine
-gui.world_settings.page.mob_spawning.passive=Sõbralike ilmumine
+gui.world_settings.page.world_settings.category.nether=Nether
+gui.world_settings.page.game_rules.button.on=ON
+gui.world_settings.page.game_rules.button.off=OFF
+gui.world_settings.page.mob_spawning.title=Mob Spawning
+gui.world_settings.page.mob_spawning.button.on=ON
+gui.world_settings.page.mob_spawning.button.off=OFF
+gui.world_settings.page.mob_spawning.hostile=Hostile Spawns
+gui.world_settings.page.mob_spawning.passive=Passive Spawns
 gui.world_settings.label.starting_biome=Starting Biome
-gui.world_settings.page.starting_biome.biome.none=Kõik
-gui.world_settings.label.select_world_type=Vali maailma sugu
-gui.world_settings.label.world_type=Maailma sugu
+gui.world_settings.page.starting_biome.biome.none=Any
+gui.world_settings.label.select_world_type=Select World Type
+gui.world_settings.label.world_type=World Type
 
-gui.select_server.page.internet.title=Interneedus
-gui.select_server.page.favorites.title=Lemmikud
-gui.select_server.page.history.title=Varajasemad
-gui.select_server.page.lan.title=Kohavõrk
-gui.select_server.page.direct_connect.title=Otseühendus
+gui.select_server.page.internet.title=Internet
+gui.select_server.page.favorites.title=Favorites
+gui.select_server.page.history.title=History
+gui.select_server.page.lan.title=Local Network
+gui.select_server.page.direct_connect.title=Direct Connect
 
 gui.dispenser.label.dispenser=Dispenser
-gui.dispenser.label.inventory=Varu
+gui.dispenser.label.inventory=Inventory
 
-gui.activator.label.activator=Käivitaja
-gui.activator.label.inventory=Varu
+gui.activator.label.activator=Activator
+gui.activator.label.inventory=Inventory
 
 gui.downloading_terrain.label.title=Downloading Terrain
 
-gui.edit_flag.label.inventory=Varu
+gui.edit_flag.label.inventory=Inventory
 
 gui.edit_label.label.title=Edit label text:
-gui.edit_label.button.done=Valmis
+gui.edit_label.button.done=Done
 
 gui.edit_sign.label.title=Edit sign message:
 gui.edit_sign.button.done=Done
@@ -147,54 +151,56 @@ gui.furnace.label.furnace=Furnace
 gui.furnace.blast.label.blast_furnace=Blast Furnace
 gui.furnace.label.inventory=Inventory
 
-gui.game_over.label.title=Juhtus, oli. 
-gui.game_over.label.score=Pügalad: %s
-gui.game_over.button.respawn=Virgu
+gui.game_over.label.title=Game over!
+gui.game_over.label.score=Score: %s
+gui.game_over.button.respawn=Respawn
 gui.game_over.button.respawn.spectator=Spectate
-gui.game_over.button.title_screen=Esiuksed
+gui.game_over.button.title_screen=Title Screen
 
-gui.guidebook.label.title=Juhend
+gui.guidebook.label.title=Guidebook
 
 gui.ingame.label.now_playing=Now playing: %s
 
-gui.ingame_menu.label.title=Mängu valikud
-gui.ingame_menu.label.score=Pügalad: %s
-gui.ingame_menu.label.saving=Salvesta...
-gui.ingame_menu.button.save_and_quit=Salvesta, lahku
-gui.ingame_menu.button.disconnect=Ühenda lahti
-gui.ingame_menu.button.back_to_game=Toibu
-gui.ingame_menu.button.options=Valikud...
+gui.ingame_menu.label.title=Game Menu
+gui.ingame_menu.label.score=Score: %s
+gui.ingame_menu.label.saving=Saving...
+gui.ingame_menu.button.save_and_quit=Save and quit to title
+gui.ingame_menu.button.disconnect=Disconnect
+gui.ingame_menu.button.back_to_game=Back to game
+gui.ingame_menu.button.options=Options...
 gui.ingame_menu.button.photo_mode=Photo Mode...
-gui.ingame_menu.button.achievements=Saavutused
-gui.ingame_menu.button.statistics=Arvandmed
+gui.ingame_menu.button.achievements=Achievements
+gui.ingame_menu.button.statistics=Statistics
 
-gui.inventory.label.crafting=Sepitsemine
-gui.inventory.creative.label.search=Tuhla...
+gui.inventory.label.crafting=Crafting
+gui.inventory.creative.label.search=Search...
 
-gui.loading.label.generating=Maailm sünnib...
-gui.loading.label.loading=Maailm oimastub...
-gui.loading.label.entering=Langetab %s-sse...
-gui.loading.label.leaving=Tõstab %s-st...
+gui.loading.label.generating=Generating level...
+gui.loading.label.loading=Loading level...
+gui.loading.label.entering=Entering %s...
+gui.loading.label.leaving=Leaving %s...
 
-gui.main_menu.label.splash.jonkadelic_birthday=Häid sündjasi, Jonkadelic!
-gui.main_menu.label.splash.maggandgeez_birthday=Häid sündjasi, MaggAndGeez!
-gui.main_menu.label.splash.minecraft_birthday=Häid sündjasi, Minecraft: Jumal olles, maailma luua!
-gui.main_menu.label.splash.bta_birthday=Häid sündjasi, Better than Adventure!
-gui.main_menu.label.splash.xmas=Häid jõule!
-gui.main_menu.label.splash.halloween=Käi persse sa halli karva vanamees ja see appikarje tagant poolt, käige persse kõik see kurbus ja viha, ära muretse, ma olen siin, ma kannan hoolt, kannan hoolt, kannan hoouooouulttt!
-gui.main_menu.label.splash.new_year=Head uut aastat!
-gui.main_menu.label.disclaimer.1=Omand on vargus.
-gui.main_menu.label.disclaimer.2=Pole lülis ameerikaslike värdjatega.
-gui.main_menu.label.downloading_resources.1=Toitub ollusest
-gui.main_menu.label.downloading_resources.2=Ära isegi arva heli mängivat! :3
+gui.main_menu.label.splash.jonkadelic_birthday=Happy birthday, Jonkadelic!
+gui.main_menu.label.splash.maggandgeez_birthday=Happy birthday, MaggAndGeez!
+gui.main_menu.label.splash.minecraft_birthday=Happy birthday, Minecraft!
+gui.main_menu.label.splash.bta_birthday=Happy birthday, Better than Adventure!
+gui.main_menu.label.splash.xmas=Merry X-mas!
+gui.main_menu.label.splash.halloween=Happy Halloween!
+gui.main_menu.label.splash.new_year=Happy New Year!
+gui.main_menu.label.disclaimer.1=Copyright Mojang Studios. Not an official Minecraft product.
+gui.main_menu.label.disclaimer.2=Not approved by or associated with Mojang Studios or Microsoft.
+gui.main_menu.label.downloading_resources.1=Downloading resources
+gui.main_menu.label.downloading_resources.2=Sounds may not play during this process!
 gui.main_menu.label.downloading_resources.connection.error=Could not download sounds!
 gui.main_menu.button.singleplayer=Singleplayer
 gui.main_menu.button.multiplayer=Multiplayer
 gui.main_menu.button.multiplayer.disabled=Multiplayer (not ready yet!)
+gui.main_menu.button.texture_packs=Texture Packs
 gui.main_menu.button.asset_packs=Asset Packs
-gui.main_menu.button.options=Valikud... *turtsub vihaselt*
-gui.main_menu.button.quit_game=Välju paradiisist
+gui.main_menu.button.options=Options...
+gui.main_menu.button.quit_game=Quit Game
 gui.main_menu.button.discord=Discord
+gui.main_menu.button.minecraft_forum=Minecraft Forum
 gui.main_menu.button.youtube=YouTube
 gui.main_menu.button.website=Website
 gui.main_menu.button.credits=Credits
@@ -207,30 +213,31 @@ gui.out_of_memory.label.body.4=memory.
 gui.out_of_memory.label.body.5=To prevent level corruption, the current game has quit.
 gui.out_of_memory.label.body.6=Please restart the game.
 
-gui.options.title=Valikud
-gui.options.button.done=Valmis
+gui.options.title=Options
+gui.options.button.done=Done
 gui.options.label.select_page=Select Page
 gui.options.label.picking_keybinding=Press a key or mouse button to set it as the keybinding for '%s'.
 
 gui.options.page.general.title=General
 gui.options.page.general.button.open_worlds_folder=Open Worlds Folder
 gui.options.page.general.button.open_screenshots_folder=Open Screenshots Folder
-gui.options.page.general.button.edit_hud=Edit HUD...
-gui.options.page.general.category.gameplay=Mängitavus
+gui.options.page.general.button.edit_hud=Open HUD Editor...
+gui.options.page.general.category.gameplay=Gameplay
 gui.options.page.general.category.user_interface=User Interface
 gui.options.page.general.category.miscellaneous=Miscellaneous
 
-gui.options.page.player.title=Mängija
-gui.options.page.player.category.player=Mängija
+gui.options.page.player.title=Player
+gui.options.page.player.category.player=Player
 
-gui.options.page.audio.title=Heli
-gui.options.page.audio.category.audio=Heli
+gui.options.page.audio.title=Audio
+gui.options.page.audio.category.audio=Audio
 gui.options.page.audio.category.debug=Debug
 
 gui.options.page.accessibility.title=Accessibility
 gui.options.page.accessibility.category.accessibility=Accessibility
 
 gui.options.page.video.title=Video
+gui.options.page.video.category.graphics=Graphics
 gui.options.page.video.category.display=Display
 gui.options.page.video.category.visuals=Visuals
 gui.options.page.video.category.post_processing=Post-Processing
@@ -245,9 +252,21 @@ gui.options.page.controls.category.controller=Controller
 gui.options.page.controls.category.interactions=Interactions
 gui.options.page.controls.category.movement=Movement
 gui.options.page.controls.category.user_interface=User Interface
+gui.options.page.controls.category.hud_editor=HUD Editor
 gui.options.page.controls.category.hotbar=Hotbar
 gui.options.page.controls.category.view=View
 gui.options.page.controls.category.miscellaneous=Miscellaneous
+
+gui.options.page.texture_packs.title=Texture Packs
+gui.options.page.texture_packs.category.textures=Textures
+gui.options.page.texture_packs.category.texture_packs=Texture Packs
+gui.options.page.texture_packs.category.texture_packs.available=Available Texture Packs
+gui.options.page.texture_packs.category.texture_packs.selected=Selected Texture Packs
+gui.options.page.texture_packs.button.open_folder=Open Folder
+gui.options.page.texture_packs.button.apply=Apply Texture Packs
+gui.options.page.texture_packs.label.no_packs=No texture packs found :(
+gui.options.page.texture_packs.label.outdated_pack.1=Outdated pack!
+gui.options.page.texture_packs.label.outdated_pack.2=This pack was not made for this version of BTA!
 
 gui.options.page.asset_packs.title=Asset Packs
 gui.options.page.asset_packs.category.textures=Textures
@@ -285,6 +304,10 @@ gui.options.page.debug.button.music.skip=Force Ambient Music
 gui.options.page.debug.button.garbage_collect=Run Garbage Collector
 gui.options.page.debug.button.reload_commands=Reload Commands
 
+gui.options.page.hidden.title=Hidden Options
+gui.options.page.hidden.category.general=General
+gui.options.page.hidden.category.general.userinterface=User Interface
+
 gui.options.page.search.title=Search
 
 gui.options.difficultylock.button.no=No
@@ -292,6 +315,21 @@ gui.options.difficultylock.button.yes=Yes
 gui.options.difficultylock.warning.1=Are you sure you wish
 gui.options.difficultylock.warning.2=to lock this world's difficulty?
 gui.options.difficultylock.warning.3=(This cannot be undone)
+
+gui.options.hudeditor.onboarding.welcome=Welcome to the HUD Editor!
+gui.options.hudeditor.onboarding.select=Press '%1$s' to select a component
+gui.options.hudeditor.onboarding.drag=Drag while holding '%1$s' to move component
+gui.options.hudeditor.onboarding.context=Press '%1$s' while hovering over a component for contextual settings
+gui.options.hudeditor.onboarding.nudge=Press '%1$s' to nudge any selected component
+gui.options.hudeditor.onboarding.nudge_fast=Hold '%1$s' to nudge faster
+gui.options.hudeditor.onboarding.reset=Press '%1$s' to reset layout to default
+gui.options.hudeditor.onboarding.exit=Press '%1$s' to leave the HUD Editor
+gui.options.hudeditor.onboarding.reopen=Press '%1$s' to see this screen again!
+gui.options.hudeditor.onboarding.begin=Click anywhere to begin
+gui.options.hudeditor.snap_to_fill=Snap To Fill
+gui.options.hudeditor.scale=GUI Scale
+gui.options.hudeditor.chat_width=Chat Width
+gui.options.hudeditor.chat_height=Chat Height
 
 gui.sound_test.label.title=Sound Test
 gui.sound_test.label.repo=Sound Repository: %s
@@ -398,6 +436,13 @@ gui.statistics.button.items=Items
 
 gui.trommel.label.trommel=Trommel
 gui.trommel.label.inventory=Inventory
+
+gui.achievements=Achievements
+gui.stats=Statistics
+
+stat.generalButton=General
+stat.blocksButton=Blocks
+stat.itemsButton=Items
 
 gui.hud_designer.button.done=Done
 

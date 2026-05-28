@@ -69,6 +69,7 @@ subtitles.random.splash=Splash
 subtitles.random.breath=Breath
 subtitles.random.bite=Player eat
 subtitles.random.equip=Armor equipped
+subtitles.random.scrape=Stone scrape
 subtitles.random.stone_scrape=Stone scrape
 
 subtitles.note.snare=Note snare
@@ -89,8 +90,18 @@ subtitles.ambient.weather.thunder=Thunder
 subtitles.ambient.cave=Cave ambience
 subtitles.ambient.weather.rain=Rainfall
 
+subtitles.tile.acidbubble=Bubbling Acid
+subtitles.tile.deepboom=Explosion
+subtitles.tile.deepquietboom=Distant Explosion
+subtitles.tile.crumble=World Crumbling
+subtitles.tile.deepcrumble=Distant World Crumbling
+
 subtitles.tile.piston.out=Piston extended
 subtitles.tile.piston.in=Piston retracted
+subtitles.tile.piston.detached=Piston detached
+subtitles.tile.piston.attached=Piston attached
+subtitles.tile.piston.detached.out=Piston failed to extend
+subtitles.tile.piston.detached.in=Piston failed to retract
 
 subtitles.tile.tnt.fuse=TNT lit
 subtitles.tile.sensor_block.sense=Mob sense
@@ -102,6 +113,8 @@ subtitles.tile.dispenser.fire=Dispenser fire
 
 subtitles.tile.activator.click=Activator click
 subtitles.tile.activator.use=Activator use
+
+subtitles.step.crystal=Rubyglass
 
 subtitles.hurt.flesh=Hurt flesh
 
