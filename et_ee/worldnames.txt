@@ -2,14 +2,9 @@
 # This list sourced from: https://gist.github.com/hugsy/8910dc78d208e40de42deb29e62df913
 
 [formats]
-The %a %p
-The %p of %a %n
-The %p of %n
-The %p of the %n
 %a %p
-%p of %a %n
-%p of %n
-%p of the %n
+%a %n%p
+%n%p
 
 [adjectives]
 abandoned
