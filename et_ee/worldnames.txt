@@ -5,6 +5,8 @@
 %a %n
 %n
 %p
+%a-%a%p
+&a-%a
 %a %n%p
 %a%p
 %n%p
@@ -2921,6 +2923,7 @@ kese
 aluse
 taguse
 tagana
+taga
 aluna
 lase
 selg
@@ -2928,18 +2931,21 @@ selja
 rahva
 rahvas
 ra
+ru
+kõnd
 kõnnu
 k
 ku
 kanna
 na
 kond
+konna
 kund
+kunna
 vere
 pea
 võhm
 võhma
-tooma
 mõis
 mõisa
 pao
@@ -2992,3 +2998,26 @@ laid
 laiu
 vili
 vilja
+ngu
+soo
+raba
+nõva
+laas
+laane
+lepp
+lepa
+stvere
+kari
+saun
+sauna
+ots
+otsa
+tuba
+toa
+sepa
+sepp
+tee
+allikas
+allika
+lähe
+lähte
