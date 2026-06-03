@@ -1,9 +1,9 @@
-tile.stone.name=Stone
-tile.stone.desc=A block of solid stone.
+tile.stone.name=Kivi
+  tile.stone.desc=Kivitahukas.
 tile.basalt.name=Basalt
 tile.basalt.desc=A block of solid basalt.
-tile.limestone.name=Limestone
-tile.limestone.desc=A block of solid limestone.
+tile.limestone.name=Lubjakivi
+tile.limestone.desc=Lubjakivitahukas.
 tile.granite.name=Granite
 tile.granite.desc=A block of solid granite.
 tile.marble.name=Marble
@@ -13,7 +13,7 @@ tile.slate.desc=A block of solid slate.
 tile.permafrost.name=Permafrost
 tile.permafrost.desc=A block of frozen stone.
 
-tile.cobble.stone.name=Cobblestone
+tile.cobble.stone.name=Munakivi
 tile.cobble.stone.desc=Stone, smashed apart and reconstituted.
 tile.cobble.stone.mossy.name=Mossy Cobblestone
 tile.cobble.stone.mossy.desc=Cobblestone with added greenery.
@@ -37,7 +37,7 @@ tile.pillar.marble.desc=A block of marble engraved into a pillar.
 tile.capstone.marble.name=Marble Capstone
 tile.capstone.marble.desc=A pillar capstone made of solid marble.
 
-tile.sandstone.name=Sandstone
+tile.sandstone.name=Liivakivi
 tile.sandstone.desc=Compacted sand.
 
 tile.stone.carved.name=Carved Stone
@@ -94,7 +94,7 @@ tile.planks.oak.painted.orange.desc=Wooden planks, stained orange.
 tile.planks.oak.painted.white.name=White Wooden Planks
 tile.planks.oak.painted.white.desc=Wooden planks, stained white.
 
-tile.torch.coal.name=Torch
+tile.torch.coal.name=Tungal
 tile.torch.coal.desc=Helps light the way.
 
 tile.ladder.oak.name=Ladder
@@ -718,9 +718,9 @@ tile.block.charcoal.desc=A solid block of charcoal.
 tile.wire.redstone.name=Redstone Wire
 tile.wire.redstone.desc=A strand of redstone dust laid on the ground.
 
-tile.torch.redstone.idle.name=Redstone Torch
+tile.torch.redstone.idle.name=Punakivitungal
 tile.torch.redstone.idle.desc=Exudes negative energy.
-tile.torch.redstone.active.name=Redstone Torch
+tile.torch.redstone.active.name=Punakivitungal
 tile.torch.redstone.active.desc=Emits a constant redstone signal.
 
 tile.button.stone.name=Stone Button
