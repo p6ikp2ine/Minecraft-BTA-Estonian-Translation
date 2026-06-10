@@ -1,7 +1,7 @@
-biome.overworld.rainforest=Rainforest
-biome.overworld.swampland=Swamp
+biome.overworld.rainforest=Vihmamets
+biome.overworld.swampland=Soo
 biome.overworld.seasonal_forest=Seasonal Forest
-biome.overworld.forest=Forest
+biome.overworld.forest=Mets
 biome.overworld.forest.dry=Dry Forest
 biome.overworld.grasslands=Grasslands
 biome.overworld.outback=Outback
@@ -22,7 +22,7 @@ biome.overworld.outback.grassy=Grassy Outback
 biome.overworld.caatinga=Caatinga
 biome.overworld.caatinga.plains=Caatinga Plains
 
-biome.nether.nether=Nether
+biome.nether.nether=Manala
 biome.nether.volcanic_islands=Volcanic Islands
 biome.nether.sulfur_pools=Sulfur Pools
 biome.nether.crystal_forest=Crystal Forest
@@ -45,7 +45,7 @@ biome.overworld.legacy.forest=Beta Forest
 biome.overworld.legacy.seasonal_forest=Beta Seasonal Forest
 biome.overworld.legacy.rainforest=Beta Rainforest
 
-biome.rainforest=Rainforest
+biome.rainforest=Vihmamets
 biome.swampland=Swamp
 biome.seasonal_forest=Seasonal Forest
 biome.forest=Forest
