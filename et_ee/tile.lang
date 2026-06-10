@@ -1,25 +1,25 @@
 tile.stone.name=Kivi
 tile.stone.desc=Kivitahukas.
-tile.basalt.name=Basalt
+tile.basalt.name=KAARNAKIVI
 tile.basalt.desc=A block of solid basalt.
 tile.limestone.name=Lubjakivi
 tile.limestone.desc=Lubjakivitahukas.
-tile.granite.name=Granite
+tile.granite.name=Rabakivi
 tile.granite.desc=A block of solid granite.
-tile.marble.name=Marble
+tile.marble.name=MARMOR
 tile.marble.desc=A block of solid marble.
-tile.slate.name=Slate
+tile.slate.name=Paas
 tile.slate.desc=A block of solid slate.
-tile.permafrost.name=Permafrost
+tile.permafrost.name=IgiKELTS
 tile.permafrost.desc=A block of frozen stone.
 
 tile.cobble.stone.name=Munakivi
-tile.cobble.stone.desc=Stone, smashed apart and reconstituted.
-tile.cobble.stone.mossy.name=Mossy Cobblestone
+tile.cobble.stone.desc=Purustatud-parandatud kivi.
+tile.cobble.stone.mossy.name=Sammaldunud munakivi
 tile.cobble.stone.mossy.desc=Cobblestone with added greenery.
 tile.cobble.basalt.name=Cobbled Basalt
 tile.cobble.basalt.desc=Basalt, smashed apart and reconstituted.
-tile.cobble.limestone.name=Cobbled Limestone
+tile.cobble.limestone.name=Munakas Lubjakivi
 tile.cobble.limestone.desc=Limestone, smashed apart and reconstituted.
 tile.cobble.granite.name=Cobbled Granite
 tile.cobble.granite.desc=Granite, smashed apart and reconstituted.
@@ -32,9 +32,9 @@ tile.cobble.limestone.mossy.desc=Cobbled limestone with added greenery.
 tile.cobble.granite.mossy.name=Mossy Cobbled Granite
 tile.cobble.granite.mossy.desc=Cobbled granite with added greenery.
 
-tile.pillar.marble.name=Marble Pillar
+tile.pillar.marble.name=MARMORSAMMAS
 tile.pillar.marble.desc=A block of marble engraved into a pillar.
-tile.capstone.marble.name=Marble Capstone
+tile.capstone.marble.name=MARMORpäiskivi
 tile.capstone.marble.desc=A pillar capstone made of solid marble.
 
 tile.sandstone.name=Liivakivi
@@ -97,7 +97,7 @@ tile.planks.oak.painted.white.desc=Wooden planks, stained white.
 tile.torch.coal.name=Tungal
 tile.torch.coal.desc=Helps light the way.
 
-tile.ladder.oak.name=Ladder
+tile.ladder.oak.name=Kabemed
 tile.ladder.oak.desc=For very rapid vertical movement.
 
 tile.fence.planks.oak.name=Wooden Fence
@@ -497,7 +497,7 @@ tile.gravel.desc=A loose collection of pebbles.
 tile.brimsand.name=Brimsand
 tile.brimsand.desc=Scorched sulfuric sand rich in gunpowder.
 
-tile.bedrock.name=Bedrock
+tile.bedrock.name=Aluskivi
 tile.bedrock.desc=The toughest substance known to man.
 tile.boneshale.name=Bone Shale
 tile.boneshale.desc=An incredibly tough white rock torn from the deepest depths.
